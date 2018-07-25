@@ -29,7 +29,7 @@ DATABASES = {
         'USER': getenv('DATABASE_USER', 'postgres'),
         'NAME': getenv('DATABASE_NAME', 'postgres'),
         'PASSWORD': getenv('DATABASE_PASSWORD', ''),
-        'HOST': getenv('DATABASE_USER', 'db'),
+        'HOST': getenv('DATABASE_HOST', 'db'),
         'PORT': getenv('DATABASE_PORT', '5432'),
     }
 }
