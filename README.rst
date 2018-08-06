@@ -2,7 +2,7 @@
 Zaaktypecatalogus
 =================
 
-:Version: 0.1.0
+:Version: 0.1.1
 :Source: https://github.com/Haarlem/zaaktypecataloguscomponent
 :Keywords: zaaktypen, ztc, imztc, ztc2, ztcaas, saas, rest, api
 

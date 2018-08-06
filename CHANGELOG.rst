@@ -5,7 +5,7 @@ Change history
 0.1.1
 =====
 
-*tbd*
+*August 6, 2018*
 
 * Added Docker related files and instructions.
 * Show all resources (only catalogussen) on the root resource and redirect to
@@ -14,7 +14,8 @@ Change history
   affects all ``ingangsdatumObject``, ``einddatumObject`` and ``versiedatum``
   fields.
 * Changed the storage of dates from StUF date format to native date format.
-* Added missing code coverage requirement
+* Added missing code coverage requirement.
+* Fixes incorrect admin-behaviour for saving Zaak ``Eigenschappen``.
 
 
 0.1.0

@@ -72,7 +72,7 @@ else:
 setuptools.setup(
     name=NAME,
     # packages=setuptools.find_packages(exclude=['tests', 'tests.*']),
-    version='0.1.0',
+    version='0.1.1',
     description='Implementatie van het component Zaaktypecatalogus (ZTC)',
     long_description=long_description,
     keywords='zaaktypen ztc imztc ztc2, ztcaas, saas, rest, api',
