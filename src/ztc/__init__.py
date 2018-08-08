@@ -9,7 +9,7 @@ from __future__ import absolute_import, unicode_literals
 import re
 from collections import namedtuple
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __author__ = 'Maykin Media B.V.'
 __contact__ = 'info@maykinmedia.nl'
 __homepage__ = 'https://github.com/Haarlem/zaaktypecataloguscomponent/'
