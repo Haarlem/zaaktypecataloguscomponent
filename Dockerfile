@@ -36,6 +36,7 @@ RUN apk --no-cache add \
 
 COPY ./src /app/src
 COPY ./docker/start.sh /start.sh
+RUN chmod +x /start.sh
 RUN mkdir /app/log
 
 COPY --from=build /app/env /app/env
