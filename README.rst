@@ -1,3 +1,7 @@
+.. image:: https://haarlem.github.io/assets/haarlem-open-source-logo.svg
+   :width: 30%
+   :target: https://haarlem.github.io
+
 =================
 Zaaktypecatalogus
 =================
