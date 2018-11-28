@@ -77,4 +77,4 @@ project. You are the Open Source hero we need.
 --------------
 
 For more information on how to use and contribute to this project,
-please read the ```README`` <README.md>`__.
+please read the `README.rst <README.rst>`__.
